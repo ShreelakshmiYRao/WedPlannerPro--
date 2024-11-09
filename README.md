@@ -33,7 +33,7 @@ Wedding Service Planner is an interactive web application designed to help users
 - **Database**: MongoDB
 
 
-    ```
+   
 
 ## Usage
 
